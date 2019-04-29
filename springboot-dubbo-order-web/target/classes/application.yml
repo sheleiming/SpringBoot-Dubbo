@@ -1,0 +1,9 @@
+server:
+  port: 8082
+dubbo:
+  application:
+    name: order
+  registry:
+    address: zookeeper://127.0.0.1:2181
+  consumer:
+    timeout: 5000
