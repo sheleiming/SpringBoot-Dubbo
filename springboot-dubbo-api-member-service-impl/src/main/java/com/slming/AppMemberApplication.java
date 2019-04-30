@@ -6,11 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 /**
- * <br/>
- * <p> Project: springboot-dubbo-parent </p>
- * <p> Author: Leiming She </p>
- * <p> Date: 2019-04-29 10:28 </p>
- *
  * @author itslm
  */
 @SpringBootApplication

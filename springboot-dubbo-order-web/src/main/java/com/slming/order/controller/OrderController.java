@@ -7,10 +7,6 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * <br/>
- * <p> Project: springboot-dubbo-parent </p>
- * <p> Author: Leiming She </p>
- * <p> Date: 2019-04-29 13:20 </p>
  * @author itslm
  */
 @RestController

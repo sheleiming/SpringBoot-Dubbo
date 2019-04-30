@@ -4,11 +4,6 @@ import com.alibaba.dubbo.config.annotation.Service;
 import com.slming.api.memeber.IMemberService;
 
 /**
- * <br/>
- * <p> Project: springboot-dubbo-parent </p>
- * <p> Author: Leiming She </p>
- * <p> Date: 2019-04-29 10:00 </p>
- *
  * @author itslm
  */
 @Service
